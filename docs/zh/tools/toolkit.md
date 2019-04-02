@@ -148,6 +148,11 @@ $ weex run android
 # 运行 Web 端预览
 $ weex run web
 ```
+| 选项        | 描述    |
+| --------   | :-----   |
+|`--target`        | |
+|`--entry`        | |
+|`--precmd`        |  |
 
 ### 调试页面
 
