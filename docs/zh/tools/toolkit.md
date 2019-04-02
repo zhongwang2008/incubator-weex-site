@@ -107,7 +107,7 @@ $ weex preview [file | folder] <options>
 使用下面的命令，你将可以预览整个文件夹中的`.vue`文件
 
 ``` bash
-$ weex src --entry src/foo.vue
+$ weex preview src --entry src/foo.vue
 ```
 
 你需要指定要预览的文件夹路径以及入口文件（通过`--entry`传入）。
